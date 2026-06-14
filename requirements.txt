@@ -1,0 +1,6 @@
+# Top Commons — Python dependencies
+#
+# All current scripts use only the Python standard library.
+# No third-party packages are required at this time.
+# This file exists for future dependency tracking.
+#
